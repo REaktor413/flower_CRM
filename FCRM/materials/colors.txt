@@ -1,0 +1,5 @@
+
+#ACE436 - green
+#006B72 - dark blue
+#BEFCFF - light blue
+#5F9A9F - and blue (maybe)
